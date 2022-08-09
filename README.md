@@ -61,4 +61,4 @@ Again, I don't care enough to fix it.
 
 **CurseForge**: https://www.curseforge.com/minecraft/mc-mods/owoify
 
-**Releases**: https://github.com/TheDreamer123/OwOify/releases/tag/Release-1.19
+**Releases**: https://github.com/TheDreamer123/OwOify/releases
