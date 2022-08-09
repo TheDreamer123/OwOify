@@ -59,6 +59,6 @@ Again, I don't care enough to fix it.
 
 # Links
 
-**CurseForge**: 
+**CurseForge**: https://www.curseforge.com/minecraft/mc-mods/owoify
 
 **Releases**: 
