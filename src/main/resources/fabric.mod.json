@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "owoify",
+  "version": "${version}",
+
+  "name": "OwOify",
+  "description": "Insanity in a jar file.",
+  "authors": [
+    "TheDreamer123"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/owoify",
+    "sources": "https://github.com/TheDreamer123/OwOify",
+    "issues": "https://github.com/TheDreamer123/OwOify/issues"
+  },
+
+  "license": "MIT",
+  "icon": "assets/owoify/owoify.png",
+
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "net.dreamer.owoify.OwOify"
+    ],
+    "client": [
+      "net.dreamer.owoify.OwOifyClient"
+    ],
+    "modmenu": [
+      "net.dreamer.owoify.util.OwOifyModMenuInterface"
+    ]
+  },
+  "mixins": [
+    "owoify.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

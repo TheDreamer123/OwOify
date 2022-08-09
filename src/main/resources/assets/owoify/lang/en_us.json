@@ -1,0 +1,19 @@
+{
+  "text.autoconfig.owoify.title": "OwOify configuration",
+
+  "text.autoconfig.owoify.option.owOifyText": "OwOify text",
+  "text.autoconfig.owoify.option.owOifyText.@Tooltip": "If true, all text will get OwOified.",
+
+  "text.autoconfig.owoify.option.emotionifyText": "Emotionify text",
+  "text.autoconfig.owoify.option.emotionifyText.@Tooltip[0]": "Changes the appearance of all letters.",
+  "text.autoconfig.owoify.option.emotionifyText.@Tooltip[1]": "",
+  "text.autoconfig.owoify.option.emotionifyText.@Tooltip[2]": "NONE - Normal text.",
+  "text.autoconfig.owoify.option.emotionifyText.@Tooltip[3]": "YELLIFY - All text in upper-case.",
+  "text.autoconfig.owoify.option.emotionifyText.@Tooltip[4]": "WHISPERIFY - All text in lower-case.",
+
+  "text.autoconfig.owoify.option.reversifyText": "Reversify text",
+  "text.autoconfig.owoify.option.reversifyText.@Tooltip": "If true, the text will be presented in reverse.",
+
+  "text.autoconfig.owoify.option.eminemifyText": "Eminemify text",
+  "text.autoconfig.owoify.option.eminemifyText.@Tooltip": "If true, all spaces will be gone."
+}
